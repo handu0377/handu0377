@@ -8,7 +8,7 @@
 */
 .float-right{width:68px; position:fixed; right:16px; top:190px; _position:absolute; _top:expression(documentElement.scrollTop + 190 + "px");z-index:9999}
 
-.float-right a{background-image: url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/bg-float-right.png); display: block;}
+.float-right a{background-image: url(http://git.handu0377.com/cdn/images/bg-float-right.png); display: block;}
 .float-right .qq,.float-right .feedback{ padding-top:42px; height: 23px; color: #fff; border-bottom: #8e5e00; text-align: center; border-bottom: 1px solid #8e5e00}
 .float-right .qq{background-position: 0 0}
 .float-right .feedback{background-position: 0 -66px}
@@ -38,7 +38,7 @@ li{float:left;}
 table{border-collapse:collapse; }
 .clearit{clear:both;*display:inline;}
 /*a:focus { -moz-outline-style: none;}*/
-.slogan{width:730px;height:165px; position:absolute; left:25%; margin-left:-360px;top:336px;background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/slogan.png) center top no-repeat; z-index:3;}
+.slogan{width:730px;height:165px; position:absolute; left:25%; margin-left:-360px;top:336px;background:url(http://git.handu0377.com/cdn/images/slogan.png) center top no-repeat; z-index:3;}
 .titTop_a{
 	width: 685px;
 	height: 64px;
@@ -157,19 +157,19 @@ a#nLeftBtn1:hover{background:url(http://static.sdg-china.com/cq/pic/web4/leftHov
 /*overflow:hidden; text-overflow:ellipsis; white-space:nowrap;*/
 /*-webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;*/
 .slogan{width:730px;height:165px; position:absolute; left:25%; margin-left:-360px;top:336px;background:url(http://static.sdg-china.com/cq/pic/web4/slogan.png) center top no-repeat; z-index:3;}
-.wrap{width:100%; height:auto;background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/body_bg2.jpg) center top no-repeat; position:relative;}
+.wrap{width:100%; height:auto;background:url(http://git.handu0377.com/cdn/images/body_bg2.jpg) center top no-repeat; position:relative;}
 .fr{width:208px;height:631px; position:absolute;right:10px;top:0;}
-.fr_top{width:208px;height:160px; position:absolute;left:0;top:0; z-index:3;background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/q_1.png) center top no-repeat;}
+.fr_top{width:208px;height:160px; position:absolute;left:0;top:0; z-index:3;background:url(http://git.handu0377.com/cdn/images/q_1.png) center top no-repeat;}
 .fr_closeBtn{width:208px;height:65px; float:left;}
 .fr_guideBtn{width:208px;height:95px; float:left;}
-.fr_bm{width:188px;height:500px; position:absolute;left:10px;top:-500px;/*top:131px;*/ z-index:2;background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/q_2.png) center top no-repeat; transition:all ease-in 1s; -ms-transition:all ease-in 1s; -moz-transition:all ease-in 1s; -webkit-transition:all ease-in 1s;}
+.fr_bm{width:188px;height:500px; position:absolute;left:10px;top:-500px;/*top:131px;*/ z-index:2;background:url(http://git.handu0377.com/cdn/images/q_2.png) center top no-repeat; transition:all ease-in 1s; -ms-transition:all ease-in 1s; -moz-transition:all ease-in 1s; -webkit-transition:all ease-in 1s;}
 .fr_btn1{width:188px;height:82px; float:left; margin-top:29px;}
 .fr_btn2{width:188px;height:82px; float:left; margin-top:21px;}
 .fr_btn3{width:188px;height:82px; float:left; margin-top:21px;}
 .fr_btn4{width:188px;height:76px; float:left; margin-top:21px;}
 .fr_goTop{width:188px;height:76px; float:left;}
 
-.wrapper{width:1280px;height:auto;margin:0 auto;background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/wrap_bg2.jpg) center top no-repeat;}
+.wrapper{width:1280px;height:auto;margin:0 auto;background:url(http://git.handu0377.com/cdn/images/wrap_bg2.jpg) center top no-repeat;}
 .w_top{width:1280px;height:1037px;float:left; position:relative;}
 .logo{width:220px;height:90px; position:absolute;top:10px;left:165px;}
 .logo a{width:220px;height:90px; float:left;}
@@ -179,26 +179,26 @@ a#nLeftBtn1:hover{background:url(http://static.sdg-china.com/cq/pic/web4/leftHov
 .navBtn1 a{width:142px;height:112px; float:left;}
 .navBtn1 a span{width:142px;height:30px; line-height:30px; float:left; font-size:24px; font-weight:bold; color:#e7c162; text-align:center; margin:18px 0 10px 0;}
 .navBtn1 a em{width:142px;height:12px; line-height:12px; float:left; font-size:10px; color:#be9365; text-align:center;}
-.navBtn1 a:hover{background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/btn1C.jpg) center top no-repeat;}
+.navBtn1 a:hover{background:url(http://git.handu0377.com/cdn/images/btn1C.jpg) center top no-repeat;}
 .navBtn2{width:142px;height:132px; float:left;}
 .navBtn2 a{width:142px;height:112px; float:left;}
 .navBtn2 a span{width:142px;height:30px; line-height:30px; float:left; font-size:24px; font-weight:bold; color:#ddcea9; text-align:center; margin:18px 0 10px 0;}
 .navBtn2 a em{width:142px;height:12px; line-height:12px; float:left; font-size:10px; color:#be9365; text-align:center;}
-.navBtn2 a:hover{background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/btn2C.jpg) center top no-repeat;}
+.navBtn2 a:hover{background:url(http://git.handu0377.com/cdn/images/btn2C.jpg) center top no-repeat;}
 .navBtn2 a:hover span{ color:#e7c162;}
 .navBtn3{width:142px;height:132px; float:left;}
 .navBtn3 a{width:142px;height:112px; float:left;}
 .navBtn3 a span{width:142px;height:30px; line-height:30px; float:left; font-size:24px; font-weight:bold; color:#ddcea9; text-align:center; margin:18px 0 10px 0;}
 .navBtn3 a em{width:142px;height:12px; line-height:12px; float:left; font-size:10px; color:#be9365; text-align:center;}
-.navBtn3 a:hover{background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/btn3C.jpg) center top no-repeat;}
+.navBtn3 a:hover{background:url(http://git.handu0377.com/cdn/images/btn3C.jpg) center top no-repeat;}
 .navBtn3 a:hover span{ color:#e7c162;}
 .navBtn4{width:144px;height:132px; float:left;}
 .navBtn4 a{width:144px;height:112px; float:left;}
 .navBtn4 a span{width:144px;height:30px; line-height:30px; float:left; font-size:24px; font-weight:bold; color:#ddcea9; text-align:center; margin:18px 0 10px 0;}
 .navBtn4 a em{width:144px;height:12px; line-height:12px; float:left; font-size:10px; color:#be9365; text-align:center;}
-.navBtn4 a:hover{background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/btn4C.jpg) center top no-repeat;}
+.navBtn4 a:hover{background:url(http://git.handu0377.com/cdn/images/btn4C.jpg) center top no-repeat;}
 .navBtn4 a:hover span{ color:#e7c162;}
-.movBtn{width:92px;height:79px; position:absolute;left:150px;top:690px; z-index:9;background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/movBtn.png) center top no-repeat;animation:x3 1.5s infinite;-ms-animation:x3 1.5s infinite;-webkit-animation:x3 1.5s infinite;-moz-animation:x3 1.5s infinite;-o-animation:x3 1.5s infinite;}
+.movBtn{width:92px;height:79px; position:absolute;left:150px;top:690px; z-index:9;background:url(http://git.handu0377.com/cdn/images/movBtn.png) center top no-repeat;animation:x3 1.5s infinite;-ms-animation:x3 1.5s infinite;-webkit-animation:x3 1.5s infinite;-moz-animation:x3 1.5s infinite;-o-animation:x3 1.5s infinite;}
 .movBtn a{width:92px;height:79px; float:left;}
 @keyframes x3 { 
 0%,100%{transform:scale3d(1,1,1); -moz-transform:scale3d(1,1,1); -ms-transform:scale3d(1,1,1); -webkit-transform:scale3d(1,1,1); -o-transform:scale3d(1,1,1);}
@@ -255,7 +255,7 @@ a#nLeftBtn1:hover{background:url(http://static.sdg-china.com/cq/pic/web4/leftHov
 25%{transform:translate(0,-4px);}
 75%{transform:translate(0,-8px);}
 }
-.p2{width:724px;height:573px; float:left; margin:213px 0 0 35px;background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/p4.png) center top no-repeat; position:relative;}
+.p2{width:724px;height:573px; float:left; margin:213px 0 0 35px;background:url(http://git.handu0377.com/cdn/images/p4.png) center top no-repeat; position:relative;}
 .p2_b1{width:150px;height:180px; position:absolute;left:14px;bottom:0;}
 .p2_b2{width:150px;height:180px; position:absolute;left:191px;bottom:0;}
 .p2_b3{width:150px;height:180px; position:absolute;left:368px;bottom:0;}
@@ -269,17 +269,17 @@ a#nLeftBtn1:hover{background:url(http://static.sdg-china.com/cq/pic/web4/leftHov
 .pic ul li em{width:294px;height:30px; line-height:30px; float:left; margin:5px 0 0 0; font-size:16px; font-weight:bold; color:#eabc6d; text-align:center;}
 .pic ul li a{width:218px;height:38px;float:left; margin:10px 38px 0 38px;}
 
-.pic1{background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/pic1a.jpg) center top no-repeat;}
-.pic2{background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/pic2a.jpg) center top no-repeat;}
-.pic3{background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/pic3a.jpg) center top no-repeat;}
-.pic4{background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/pic4a.jpg) center top no-repeat;}
+.pic1{background:url(http://git.handu0377.com/cdn/images/pic1a.jpg) center top no-repeat;}
+.pic2{background:url(http://git.handu0377.com/cdn/images/pic2a.jpg) center top no-repeat;}
+.pic3{background:url(http://git.handu0377.com/cdn/images/pic3a.jpg) center top no-repeat;}
+.pic4{background:url(http://git.handu0377.com/cdn/images/pic4a.jpg) center top no-repeat;}
 
 
 /*视频*/
 .alertBox {width:690px; height:430px;position:fixed;_position:absolute;z-index:1000;display:none; top:50%; left:50%; margin:-300px 0 0 -345px;_top:expression(documentElement.scrollTop + 330 + "px")}
-.close {width:47px; height:46px;cursor:pointer; position:absolute;text-indent:-9999px;top:-47px; right:5px;background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/s1_close.png) center top no-repeat;}
+.close {width:47px; height:46px;cursor:pointer; position:absolute;text-indent:-9999px;top:-47px; right:5px;background:url(http://git.handu0377.com/cdn/images/s1_close.png) center top no-repeat;}
 .alertCon { position:relative;}
-.conCon{width:690px; height:430px; float:left;display:inline;background:url(http://git.oschina.net/handu0377/login/raw/master/cdn/images/loading.gif) center center no-repeat #000;}
+.conCon{width:690px; height:430px; float:left;display:inline;background:url(http://git.handu0377.com/cdn/images/loading.gif) center center no-repeat #000;}
 .conCon_load{width:690px; height:430px; line-height:620px; position:absolute;left:0;top:0; font-size:28px; color:#9d9d9d; text-align:center; z-index:2;}
 .conCon_con{width:690px; height:430px;position:absolute;left:0;top:0; z-index:3;}
 
